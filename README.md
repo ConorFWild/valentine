@@ -18,4 +18,5 @@ python cafe.py
 ```
 
 I hope you have fun! 
+
 Love, Conor
