@@ -1,8 +1,6 @@
 # valentine
 
-
-
-Happy Valentine's day Sophia!
+Happy Valentine's Day Sophia!
 
 So, I thought what could be kind of cool is if I made you a little game, and commented the code thorougly, so it could be both a bit of fun to play and also, at least maybe, showcase some cool ideas you could use in your own game coding! 
 
